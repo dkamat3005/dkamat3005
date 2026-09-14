@@ -5,6 +5,6 @@ Hey, I’m Deetya!
 - 🤝 **LinkedIn:** www.linkedin.com/in/deetya-kamat
 - 🌐 **Website:** coming soon...
 
-**Languages:** Java, Python, C, C++, JavaScript/TypeScript
+**Languages:** Go, Java, Python, C, C++, JavaScript/TypeScript
 
 **Technologies & Frameworks:** React, Flutter/Dart, Pandas, NumPy, Scikit-learn, Linux/UNIX, Git, Figma, OAuth 2.0, REST APIs

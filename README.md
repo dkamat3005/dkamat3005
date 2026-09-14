@@ -1,7 +1,6 @@
 Hey, I’m Deetya!
 
 - 💡 **Interested in:** software engineering, distributed systems, machine learning, mobile and web development, and biotechnology
-- 🔎 **Looking to**: gain technical experience while contributing to open-source projects
 - ✉️ **Email:** deetyk@uw.edu
 - 🤝 **LinkedIn:** www.linkedin.com/in/deetya-kamat
 - 🌐 **Website:** coming soon...
